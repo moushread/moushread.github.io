@@ -4,14 +4,14 @@ analytics-id: #leave blank to not use Analytics
 #Subtitle
 subtitle:
   active: true
-  text: Yet Another Minimal Theme
+  text: Yet Another Book Blog
 
 #Nav 
 nav:
   pages:
     active: true
   social:
-    active: true
+    active: false
 
 #Featured images in homepage
 featured-img:
